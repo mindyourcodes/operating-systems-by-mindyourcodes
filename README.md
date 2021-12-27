@@ -1,7 +1,8 @@
 # Operating Systems
 \-By [@MindYourCodes](www.github.com/mindyourcodes)
 
-![](https://blogger.googleusercontent.com/img/a/AVvXsEgXMrydqgmnrSlSrWV7gm4RqsYJ82eHaCCH3zKwu94pZwKar9waEcpo7c0WqiWwyqUsawJIYz8lTfVbW4eYiw-toyy_Hiu6Lz7rVYNfR4UYF3dGKVKWvqIK7C1kU-QWf2wxPpbnjYR39sA5W60Q5kWvpg-aeEPhOEMyS_PcTsjBRd4GWcDHSWiULqpMEg=s1280':size=460')
+<p align='center'> <a href="https://www.github.com/organizations/Freaxcode"> <img class="intro" width="80%" src="https://blogger.googleusercontent.com/img/a/AVvXsEgXMrydqgmnrSlSrWV7gm4RqsYJ82eHaCCH3zKwu94pZwKar9waEcpo7c0WqiWwyqUsawJIYz8lTfVbW4eYiw-toyy_Hiu6Lz7rVYNfR4UYF3dGKVKWvqIK7C1kU-QWf2wxPpbnjYR39sA5W60Q5kWvpg-aeEPhOEMyS_PcTsjBRd4GWcDHSWiULqpMEg=w700-h464" ></a></p>
+
 
 We live in a world where computers govern most of the day-to-day tasks. Computers are almost everywhere, at your school, at your desk, in your kitchen, in your bedroom, there's one lying in your pocket and the one you're reading this article on. Not all computers need an Operating System (OS), it depends on the niche of the computer, the computer that controls the refrigerator or oven in your kitchen, for example, doesn't require an operating system. However, In this article, we are dealing with the operating systems running on digital computers. All desktop and mobile devices have Operating Systems underneath them, serving a different purpose. Students (particularly online students), freelancers, and anyone who owns a phone, computer, or tablet should learn about different OSs so they can pick a computer and OS that meet their needs. If you’re planning to study IT in school and pursue an IT career, you’ll want a firm knowledge of OSs to make sure you’re prepared for all the skills you’ll need to be successful in your field.
 
