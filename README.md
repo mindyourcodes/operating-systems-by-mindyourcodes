@@ -15,8 +15,7 @@ The fact which many seldom talk about is what makes these computers work the way
   </p><table>
     <tbody><tr>
       <td><img height="53" src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png" width="65" /></td>
-      
-      <td><img height="29" src="https://freepngimg.com/download/triangle/58903-icons-kde-theme-computer-linux-arch.png" width="29" />&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+      <td><img height="29" src="https://freepngimg.com/download/triangle/58903-icons-kde-theme-computer-linux-arch.png" width="29" />&nbsp;&nbsp;</td>
       <td><img height="39" src="https://free-astro.org/images/0/04/Debian_logo.png" width="43" /></td>
     </tr>
 </tbody></table>
