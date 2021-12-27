@@ -10,6 +10,17 @@ We live in a world where computers govern most of the day-to-day tasks. Computer
 The fact which many seldom talk about is what makes these computers work the way they do. Without an operating system, a computer cannot simply function. From a 5th grade perspective, an OS is what basically keeps your devices running and functional (Isn't that electricity?). Yes, electricity power up your hardware but OS is what makes better use of them and governs the way certain hardware behaves. Now let's dig deep into the technical aspects of an Operating System. An operating system (OS) is a set of basic programs and utilities that make your computer run. It acts as an intermediary of sorts between programs and the computer hardware, manages the software resources of the system. In computers, tablets, and smartphones, these hardware and software resources include the processors, memory, disk space, GUI, application software, etc. It provides a stable, consistent way for applications to deal with the hardware without having to know all the details of the hardware.
 
 ## Do Operating Systems matter? Why so many OSs?
+
+</p><h2>Do Operating Systems matter? Why so many OSs?</h2><p>
+  </p><table>
+    <tbody><tr>
+      <td><img height="53" src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png" width="65" /></td>
+      <td>&nbsp; &nbsp; &nbsp;</td>
+      <td><img height="29" src="https://freepngimg.com/download/triangle/58903-icons-kde-theme-computer-linux-arch.png" width="29" />&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+      <td><img height="39" src="https://free-astro.org/images/0/04/Debian_logo.png" width="43" /></td>
+    </tr>
+</tbody></table>
+
 You’ve probably been a part of the 'Linux vs Windows' or 'iOS vs Android' argument on social media platforms like Reddit where everyone seems to have very strong opinions on their choice, claiming the superiority of the OS they use but what it really comes down to is their personal preference in operating systems. Most people know what OS they like, depending on their personal experience. They may say they like a particular feature of the OS or they enjoy some pre-installed software, the look, and feel of the applications or systems they can download, or even the pre-installed web browser. But, the fact is that every OS is unique and serves a special purpose. It will be too early to conclude about which operating system is the best in the market.
 
 ## Leading Operating Systems (2021)
