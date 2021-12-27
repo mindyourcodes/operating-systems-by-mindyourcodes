@@ -11,7 +11,7 @@ The fact which many seldom talk about is what makes these computers work the way
 
 ## Do Operating Systems matter? Why so many OSs?
 
-</p><h2>Do Operating Systems matter? Why so many OSs?</h2><p>
+
   </p><table>
     <tbody><tr>
       <td><img height="53" src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png" width="65" /></td>
